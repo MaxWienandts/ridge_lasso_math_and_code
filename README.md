@@ -58,4 +58,4 @@ This project aims to bridge the gap between:
 ## 👤 Author
 
 **Max Wienandts**  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [Medium](https://medium.com/@maxwienandts) • [GitHub](https://github.com/MaxWienandts)
+[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/max-wienandts/)) • [Medium](https://medium.com/@maxwienandts) • [GitHub](https://github.com/MaxWienandts)
