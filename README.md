@@ -52,8 +52,7 @@ This project aims to bridge the gap between:
 
 ## 🔗 Related
 
-- [My Linear Regression notebook — OLS vs Gradient Descent](https://github.com/MaxWienandts/Linear_Regression_OLS_vs_Gradient_Descent)
-- [Medium article](https://medium.com/@maxwienandts/understanding-linear-regression-statistical-vs-machine-learning-approaches-08a5a5b04bbe)
+- [Medium article]([https://medium.com/@maxwienandts/understanding-linear-regression-statistical-vs-machine-learning-approaches-08a5a5b04bbe](https://medium.com/@maxwienandts/regularization-in-linear-regression-a-deep-dive-into-ridge-and-lasso-3d2853e5e2b0))
 
 ## 👤 Author
 
