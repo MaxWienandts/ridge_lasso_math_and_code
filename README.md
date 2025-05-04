@@ -60,3 +60,4 @@ This project aims to bridge the gap between:
 • LinkedIn: https://www.linkedin.com/in/max-wienandts/
 • Medium: https://medium.com/@maxwienandts 
 • GitHub: https://github.com/MaxWienandts
+• Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6
