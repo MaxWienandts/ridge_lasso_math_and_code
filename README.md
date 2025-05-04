@@ -52,9 +52,11 @@ This project aims to bridge the gap between:
 
 ## 🔗 Related
 
-- [Medium article]([https://medium.com/@maxwienandts/understanding-linear-regression-statistical-vs-machine-learning-approaches-08a5a5b04bbe](https://medium.com/@maxwienandts/regularization-in-linear-regression-a-deep-dive-into-ridge-and-lasso-3d2853e5e2b0))
+• Medium article: https://medium.com/@maxwienandts/regularization-in-linear-regression-a-deep-dive-into-ridge-and-lasso-3d2853e5e2b0
 
 ## 👤 Author
 
 **Max Wienandts**  
-[LinkedIn](https://www.linkedin.com/in/max-wienandts/) • [Medium](https://medium.com/@maxwienandts) • [GitHub](https://github.com/MaxWienandts)
+• LinkedIn: https://www.linkedin.com/in/max-wienandts/
+• Medium: https://medium.com/@maxwienandts 
+• GitHub: https://github.com/MaxWienandts
